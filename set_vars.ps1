@@ -1,0 +1,5 @@
+$env:FLASK_APP="main.py"
+$env:TEST_USERNAME1 = "alex_t"
+$env:TEST_PASSWORD1 = "Pass123%"
+$env:TEST_USERNAME2 = "mia_w"
+$env:TEST_PASSWORD2 = "Pass456%"
